@@ -1,0 +1,313 @@
+Hi, 
+
+Your ticket request has been received. 
+We will review it and update you the ticket status. 
+
+Thanks, 
+Senthil.M.
+
+---------------------------------------------------------------------------
+Hi Mitchell,
+
+Sorry for the inconvenience.
+
+We are not get any update from you still now. We are not able to Keep this ticket as more than 2 days without any update as per the process. 
+So that  I make  this ticket as Close pending state. If you get any issue on this, please create one New ticket and assign to Us.
+We will proceed on that.
+
+Thanks for your Kind Co-operation.
+
+Thanks
+Senthil.M
+
+--------------------------------------------------
+Hi,
+
+Need physical intervention on this, Moving this ticket to RTP-Ops team for the further assistance.
+
+Thanks
+Senthil.M
+
+Hi
+
+We are Moving this ticket to  RTP -Ops team for the further assistance.
+
+Thanks
+Senthil.M
+
+-----------------------------------------------------------------------------
+
+Hi,
+
+We have created EPG Incident ticket INC10366532. for this issue. The EPG Team will update on this ticket  Asap.
+
+We will close this  Primary ticket from our End.
+
+Thanks
+Senthil.M
+================================================
+EPG Tikcet :
+
+Hi Pavan,
+
+We raised a EPG ticket for your issue, as this issue is out of scope for Engineering Support.
+
+You can follow up with this ticket ID : INC10428173
+
+Hence we are closing this engineering support ticket, and your EPG ticket is remain open untill they resolved your issue.
+
+
+Thanks,
+Satya
+
+
+
+=======================================================================
+Hi,
+
+We are Moving this ticket to GSBR Network   Team for the further assistance .
+
+Thanks
+Senthil.M
+---------------------------------------------------------------------------------------
+Hi  ,
+
+Thank you for contacting ESOC. Your ticket will be assigned to the next available engineer.
+
+We will keep you updated about the status of your ticket and resolutions provided on timely basis.
+
+We will contact you if any additional information required from your end.
+
+Thank You,
+Senthil.M.
+ 
+-------------------------------------------------------------------------------------------------
+Hi,
+
+We are Moving this ticket to GSBR Virtualization Team for the further assistance .
+
+Thanks
+Senthil.
+=================================================================================================
+Hi,
+
+We are unable to login with Default Credentials to this hosts. Please let us know the Admin/root Login details of Mentioned Hosts. 
+
+Thanks
+Senthil.M
+
+-------------------------------------------------------------------------------------
+
+
+Hi,
+
+As per your request , We have installed server 2012 OS in the mentioned Hosts.Please check it. Login details are given below. If you have any concern on this  Installation , Please update on this ticket . 
+
+Host Name :  X3250-250-95 
+
+Login Details:
+---------------
+          Username :  10.228.250.95\administrator
+          Password : netapp1!
+
+Host Name :  X3250-250-98
+
+
+
+I would like to appreciate your patience and co-operation. I hope that you were delighted with the service provided to you.
+
+
+Thanks & Regards,
+Senthil. M
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Hi Ria
+
+Thank you very much for providing timely response on this ticket.. 
+
+We will try to accommodate your request and will work towards the resolution of this issue and update you accordingly. 
+
+We may contact you in case we need any further details from your end. 
+
+Thanks & Regards, 
+Senthil.M
+
+
+--------------------------------------------------------------------------------------------------------------------
+Corp-IT Reply :
+******************
+
+Hi Team,
+
+We have received the Ticket from the below user mentioned like this ,Please create one ticket on user Name  :  and work on this. 
+
+Sending mail behalf of user.
+
+
+Ticket opened via email from Mohanasundaram.Chandran@netapp.com:
+
+Hi,
+
+We are in the process of evaluating the Vtune software and for that we need a temporary laptop with Redhat Linux Enterprise Version 6.x installed.
+
+
+Username: David Kaplan (kapland)
+Location : RTP
+Businees Phone : 1-919-476-5082
+Mobile  : 1-503-523-6707
+
+
+Regards,
+Mohan.
+-------------------------------------------------------------------------------------------------------------
+
+Corp-IT Close 
+**************** 
+
+Hi Binoy,
+
+We have created the ticket with Corp-IT( HelpDesk)  team regarding this Request. This  request  is out of scope for Engineering Support. The Corp IT ( HelpDesk) ticket No is : INC1056391
+
+The Corp-IT( HelpDesk) Team Guys Will contact to you asap. If you want more information on this ticket, Please Call 3434 and press 11 and can ask the status of the ticket INC1056391  ( Corp-IT Team).
+
+We are Marking this primary ticket as Closing  state from our engineering support End. Please let us know, if you want any assistance. 
+
+ Corp- IT Direct No : 080-4184- 3434  and press 1 again 1
+
+
+Thanks& Regards.
+Senthil.M
+
+
+
+-----------------------------------------------------------------------------------------------
+
+DNS :
+
+
+Hi 
+
+As per your request , We have added the DNS entry to the mentioned hosts. It Will take time 30 to 45 mints to reflect. Please check it after 30 mins.
+
+We are Marking this ticket as  Close  State.If you get any issue on this, Please update in this ticket.
+
+
+Thanks
+Senthil.M
+------------------------------------------------------------------------------------------------------
+
+Hi,
+
+Need physical intervention on this request, Moving this ticket to NB Ops team for further assistance.
+
+
+Thanks
+Senthil.M
+
+---------------------------------------------------------------------------------------------------------
+Home Directory :
+------------
+Hi,
+
+As per your request , We have created home directory at NB Site.Could you Please check the below logs. 
+If you have issues , Please update on this ticket.We move  this ticket as close pending state.
+
+
+Thanks
+Senthil.M
+
+====================================================================================================================
+Hi,
+
+
+Please follow the below link to get the scratch space in RTP.
+
+http://vsimservice.eng.netapp.com/cgi-bin/getsite.cgi
+
+Open the link---> Select the site as RTP--> in Left side pane Select Get VSIMIP--> Then Select anyone of radio button related to single node or cluster node in right side pane --->  Click request button--> 
+you will get the vsimip details in mail  immediately ---> Then within  2 hours your scratch space will create in RTP  Site---> 
+
+
+Please update on this ticket, if you get any issue on this.
+
+I Move this ticket to Close pending state.
+
+
+
+==========================================================================================================================
+ONTAP  Install/upgradations:
+===========================================
+Hi,
+
+Sorry for the inconvenience.
+
+The ONTAP Install/upgrades/downgrades , cluster/HA configurations etc are not supported by ESIS . This is the decision from higher management
+and the expectation is that the end user should be able to do these by their own. If you face any problems doing the upgrades/downgrades or configurations due to the infrastructure related issues,
+please raise a new incident with the exact error, EngSup will help you to troubleshoot.
+
+Thanks
+Senthil.M
+============================================================================================================
+Hi,
+
+ESIS will not be supporting any ONTAP build installation and new cluster configurations. This need to be done by user itself.
+If you face any issues due to infrastructure issues, please raise a new incident with the exact error
+
+Thanks
+Senthil.M
+==========================================================================================================================
+Hi,
+
+Need physical intervention on this, Moving this ticket to RTP-Ops team for the further assistance.
+
+Thanks
+Senthil.M
+================================================================================================================
+
+Hi  NB Ops team ,
+
+Need physical intervention to make the port up,Could you please look on this .
+
+Thanks
+Senthil.M
+===========================================================================================================================
+Hi NB Ops team ,
+
+Could you please look on this issue 
+
+Thanks
+Senthil.M
+=================================================================================
+Hi,
+
+We  are moving this ticket to RTP Ops team for the further assistance.
+
+Thanks
+Senthil.M
+
+=========================================================
+Hi RTP  Ops team ,
+
+Could you please look on this  physical request.
+
+Thanks
+Senthil.M
+
+==========================================
+
+Please let us know, if you want any assistance.
+
+I move this ticket to close pending state.
+
+Thanks
+Senthil.M
+
+
+
+
+
+
+
+

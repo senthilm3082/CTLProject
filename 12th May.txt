@@ -1,0 +1,119 @@
+
+RMP Ip is not ping. Re-configured the RLM ip and verified the other services. Hence released the client from WFS.
+
+Netboot time out issue Did wipeconfig and released it back to the pool
+
+Issue on netboot time out. Did wipeconfig and released it back to the pool
+
+INC11221618
+
+
+Reservation: http://ctl5.eng.netapp.com/reservation/describe/6309092
+Owner: vaishals
+Testbed Path: /x/eng/testbedN,ctl/common/user_testbeds/vaishals/reservation/6309092_6317609_2Vsim-ucs583-10
+Testbed Type: 2Vsim
+
+sti22-vsim-ucs583t, sti22-vsim-ucs583s
+
+sti22_vsim_ucs583t
+
+Manually scrubbed the vsims and removed from inventory. Hence move this ticket to close pending state.
+
+
+Nodes are in reserved state. Verified the health status. Hence move this ticket to close pending state.
+
+Nodes are in available state. Verified the health status. Hence move this ticket to close pending state.
+
+Testbed is in available state. Verified the nodes health status. Hence move this ticket to close pending state.
+
+Reservation  is in running state.  Hence move this ticket to close pending state.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Close Notes  ***************************************************************************************************
+
+
+http://ctl5.eng.netapp.com/client/describe/scspr0405445014
+
+
+
+Failed at ICMP test. rebooted the client verified ping test hence marked it dirty.
+
+Rebooted the filers using SP its working fine. hence marked it dirty for cleanup. 
+
+Ping failed due to timed out.Hence verified and moved to dirty for cleanup.
+
+
+Ping failed due to timed out.Hence verified and moved to dirty for cleanup.
+
+Verified both clients and moved to dirty for cleanup.
+
+staf issue. after snapreverted the client , staf is working fine.
+
+Snap reverted clients hence removed it from WFS. 
+
+Client is failing in postsnaps due to timeout while executing one command.
+So nothing much can be done on these clients so powered off/on all of them 
+Verified the reachability by checking ping/uptime/staf running.
+Removed the client batch wise and rerun the scrub and most of them passed without any issues.
+
+It was failing at ping test. Did snaprevert and powered on and verified STAF,Automount,ssh and verified other services also. Hence removed from WFS Page for scrubbing.
+
+
+Failed in postsnaps. Manually did the snaprevert and verified the services. Hence removed from WFS Page for scrubbing.  
+
+
+Failed in postsnaps. Manually did the snaprevert and verified the services and changed the nodes to dirty state. 
+
+rpowered and verified the services
+
+rpowered and rerunning
+
+Failed in snap revert. Manually done the snaprevert and verified the services.  Hence removed from WFS.
+
+ FAIL: Error while running postsnap scripts. Hence rpowered the clients and verified the reachability by checking ping/uptime/staf running and changed the clients to dirty state.
+
+
+snapreverted the client
+
+
+Client is failing in postsnaps due to timeout while executing one command.So nothing much can be done on these clients, Hence rpowered the clients and verified the reachability by checking ping/uptime/staf running and changed the clients to dirty state.
+
+Failed in postsnaps. Did snaprevert and verified the services
+
+
+It was failing at ping test. Did snaprevert and powered on and verified STAF,Automount,ssh and verified other services also.Hence changed the state to dirty.
+
+
+
+Failed in postsnaps . Did snaprevert and powered on and verified STAF,Automount,ssh and verified other services also. Hence changed the state to dirty.
+
+Failed in postsnaps . Did snaprevert and verified the services, Hence removed from WFS Page for scrubbing.
+
+It was failing at ping test. Did snaprevert and powered on and verified STAF,Automount,ssh and verified other services also. Hence removed from WFS Page for scrubbing.
+
+Failed in snaprevert. Manually did the snaprevert for vms and rpowered the cisco hosts and verified the services. Hence removed from WFS Page for scrubbing.
+
+Failed in postsnaps. Manually did the snaprevert for vms and rpowered the cisco hosts and verified the services. Hence removed from WFS Page for scrubbing.
+
+
+Client is failing in postsnaps due to timeout while executing one command.
+
+Failed in postsnaps . Did snaprevert and verified the services
+
+suram: failed due to timeout rpowered and rerunning the same
+
+Failed in Timed out while waiting for process to finish. Did snaprevert and powered on and verified the services.
+
+Client is failing in postsnaps due to timeout while executing one command.So nothing much can be done on these clients, Hence rpowered the clients and verified the reachability by checking ping/uptime/staf running and changed the clients to dirty state.
+
+Failed in Timed out while waiting for process to finish. Did snaprevert and powered on and verified STAF,Automount,ssh and verified other services also. Hence changed the state to dirty.
+
+Failed in postsnaps. Manually did the snaprevert and verified the services and changed the nodes to dirty state. 
+
+So nothing much can be done on these clients so powered off/on all of them 
+Verified the reachability by checking ping/uptime/staf running.
+Removed the client batch wise and rerun the scrub and most of them passed without any issues.
+
+snapreverted the client
+
+

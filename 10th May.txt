@@ -1,0 +1,40 @@
+The following equipment has been marked broken following a failed qualification attempt:
+
+	sti-c6220-0033a
+	sti-c6220-0034a
+
+The qualification logs can be found here: 
+
+	http://web.ctl.gdl.englab.netapp.com/cgi-bin/natejobs.cgi?logdir=/x/eng/sti-testbeds/minires/.dinakara_161790_1525756979
+
+
+
+Hi RTP Ops team,
+
+We have installed the below driver and supporting drivers. All are installed  successfully but  when we run nvidia-smi command it fails.
+
+[root@rx2540-scq4fy183:/vmfs/volumes/5aeb9d44-ea73220a-9e35-901b0ee6ccf3] esxcli software vib install -v /vmfs/volumes/data
+store1/NVIDIA-vGPU-kepler-VMware_ESXi_6.5_Host_Driver_367.124-1OEM.650.0.0.4598673.vib
+Installation Result
+Message: Operation finished successfully.
+Reboot Required: false
+VIBs Installed: NVIDIA_bootbank_NVIDIA-kepler-VMware_ESXi_6.5_Host_Driver_367.124-1OEM.650.0.0.4598673
+VIBs Removed: NVIDIA_bootbank_NVIDIA-kepler-VMware_ESXi_6.5_Host_Driver_367.64-1OEM.650.0.0.4240417
+VIBs Skipped:
+[root@rx2540-scq4fy183:/vmfs/volumes/5aeb9d44-ea73220a-9e35-901b0ee6ccf3]
+
+
+Could you please look on this issue as priority.
+
+Thanks
+Senthil.M
+
+
+
+INC11223282
+
+Client is failing in postsnaps due to timeout while executing one command.So nothing much can be done on these clients so powered off/on all of them.Verified the reachability by checking ping/uptime/staf running.
+
+Rpowered and rerunning 
+
+Staf  issue.  rpowered the host and verified the staf service. Hence we move this ticket to close pending state.
